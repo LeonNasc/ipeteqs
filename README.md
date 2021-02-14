@@ -54,7 +54,7 @@ IPETEQS possui também desvios condicionais, que atuam nos operadores lógicos `
 
     SE b < 100 ENTÃO
       //Faça algo aqui
-    SENÂO
+    SENÃO
       //Faça outra coisa aqui
     FIM SE  
 
